@@ -1,3 +1,11 @@
-THE FIES HERE WONT BE SHOWED IN GIT STATUS COMMAND
-CZ..THESE ARE IGNORED
-mylogs.log
+# THE FIES HERE WONT BE SHOWED IN GIT STATUS COMMAND
+# CZ..THESE ARE IGNORED
+# ignoring files of extensions u want
+
+/mylogs.log
+*.log
+*.cpp
+*.c
+ignore/
+  or
+/ignore
